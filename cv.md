@@ -51,8 +51,15 @@ Project manager in Web agency, with experience of leading teams and managing pro
 
 ## Education
 
-### University
+1. Masters degree at Odessa National Marine university. 2008-2014
+2. Projector school. Web design. Basics. 2019
+3. Development:
+   - Go IT. HTML + CSS. 2020
+   - Go IT. JS Basics. 2021
+   - RS School: Pre-course (in progress)
 
-### Courses
+## English knowledge - B2-C1 (Advanced)
 
-## English knowledge
+- Greenforest English school. IELTS preparation course.
+- Greenforest English school. Advanced level. 2020
+- London school of England. Advanced level. 2019
