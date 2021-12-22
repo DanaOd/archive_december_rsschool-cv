@@ -10,6 +10,8 @@ Email: dana.lalovaod@gmail.com
 
 Address: Odessa, Ukraine
 
+Discord: DanaOd (danaod)#9476
+
 [LinkedIn](https://www.linkedin.com/in/dana-lalova-76846083/)
 
 ## About myself
@@ -22,6 +24,28 @@ Project manager in Web agency, with experience of leading teams and managing pro
 - HTML + CSS;
 - JS Basics;
 - Git;
+
+### Code example
+
+```
+function squareDigits(num){
+  //may the code be with you
+  let stringDigits = String(num).split("");
+
+    return Number(stringDigits.map(numb => {
+        numb = Number(numb);
+        let square = numb * numb;
+        let total = "";
+        total+= square;
+        return total;
+    }).reduce((acc, value) => acc + value));
+}
+
+```
+
+### My projects
+
+[Designee landing page](https://github.com/DanaOd/designee_landing)
 
 **In progress**: SCSS, Responsive, Webpack and Parcell
 
