@@ -1,6 +1,6 @@
 # Dana Lalova
 
-## ![Dana'sphoto](/myphoto.jpg =250x)
+## ![Dana'sphoto](/myphoto.jpg)
 
 ## Contacts
 
